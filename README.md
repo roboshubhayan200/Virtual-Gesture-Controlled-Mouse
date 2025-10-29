@@ -37,7 +37,7 @@ Gesture-Controlled-Mouse/
 
 ⚙️ Installation & Setup
 1️⃣ Clone the repository
-git clone https://github.com/<your-username>/Gesture-Controlled-Mouse.git
+git clone https://github.com/roboshubhayan200/Virtual-Gesture-Controlled-Mouse.git
 cd Gesture-Controlled-Mouse
 
 2️⃣ Install all dependencies
